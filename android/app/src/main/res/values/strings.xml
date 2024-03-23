@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Bookme by FTC</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">cover</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="facebook_app_id">878446033760742</string>
+  <string name="facebook_client_token">9b441951b7a9bfd935ad8e24651a3bf0</string>
+  <string name="expo_system_ui_user_interface_style" translatable="false">light</string>
+</resources>

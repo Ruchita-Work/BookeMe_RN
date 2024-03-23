@@ -1,0 +1,4 @@
+export const API_QUERY_KEYS = {
+  BUSINESS_AREAS: "BUSINESS_AREAS",
+  USER_ME: "USER_ME",
+};

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "596659672440",
+    "project_id": "bookme-e41d6",
+    "storage_bucket": "bookme-e41d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596659672440:android:deaae8b5fedfb29ed6e48d",
+        "android_client_info": {
+          "package_name": "com.ftc.studio.BookMe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596659672440-dhni3c965v6h6nhu8mpgh5ose82i6nqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ftc.studio.BookMe",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "596659672440-hksas2m4r8e18mr7gn3s9o60u7ca3ona.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkPcGt1tNEethC-DpPZyCRu4HvvNzgpZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596659672440-6q9sai8pdeg17o766dr6b28pb3ehq9dn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "596659672440-95lf8u105ag85o5bcbt0ol4fghj38ko3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ftc.studio.bookme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

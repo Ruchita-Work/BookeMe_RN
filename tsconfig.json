@@ -1,0 +1,42 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "jsx": "react",
+    "strict": false,
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "paths": {
+      "@assets/*": ["src/assets/*"],
+      "@assets": ["src/assets/index.ts"],
+
+      "@components/*": ["src/components/*"],
+      "@components": ["src/components/index.ts"],
+
+      "@screens/*": ["src/screens/*"],
+      "@screens": ["src/screens/index.ts"],
+
+      "@theme/*": ["src/theme/*"],
+      "@theme": ["src/theme/index.ts"],
+
+      "@utils/*": ["src/utils/*"],
+
+      "@navigation/*": ["src/navigation/*"],
+      "@navigation": ["src/navigation/index.ts"],
+
+      "@hooks/*": ["src/hooks/*"],
+      "@hooks": ["src/hooks/index.ts"],
+
+      "@context/*": ["src/context/*"],
+      "@context": ["src/context/index.ts"],
+
+      "@api/*": ["src/api/*"],
+      "@api": ["src/api/index.ts"],
+
+      "@redux/*": ["src/redux/*"],
+      "@redux": ["src/redux/index.ts"],
+
+      "@types/*": ["src/types/*"],
+      "@types": ["src/types/index.ts"]
+    }
+  }
+}
